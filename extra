@@ -69,3 +69,36 @@ col-xl
                 <li>Mango</li>
                 <li>Banana</li>
             </ol>
+
+///////
+5,11> JavaScript
+12,18,19,25> Node+Mongo+Express
+26,1,2,8,9,15,16> React
+
+
+if else
+tenerory
+Switch
+Date
+let/const
+loop
+function 
+classes
+map
+filter
+object
+Json
+Import/Export
+
+
+/////First Time////
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/testapp.git
+git push -u origin master
+
+/////All Next Time////
+git add .
+git commit -m "first commit"
+git push
